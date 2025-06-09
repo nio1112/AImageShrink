@@ -2,6 +2,10 @@
 
 在线智能图片压缩工具，使用 AI 技术减小文件体积，同时保持良好的视觉质量。
 
+## 在线演示
+
+在线体验地址： [https://nocode.host/7d87b/1ic27swwpgfiu9d5t](https://nocode.host/7d87b/1ic27swwpgfiu9d5t)
+
 ## 功能特点
 
 - 🖼️ 批量图片压缩
